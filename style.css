@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'ZenDots';
+  src: url('/ZenDots-Regular.ttf');
+  font-weight: 200;
+}
+
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Zendots, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
